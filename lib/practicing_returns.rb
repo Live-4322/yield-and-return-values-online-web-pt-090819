@@ -8,6 +8,8 @@ def hello(array)
   end
 end
 
+binding pry 
+
 my_each(list) {|i| puts "So I think #{i} is junk"}
 
 # Use the collection method 
